@@ -1,5 +1,5 @@
 # ponzi
-a delightful color scheme.
+a delightful color scheme. (now available for [firefox](https://addons.mozilla.org/en-US/firefox/addon/ponzi-colorscheme/))
 
 ![Screenshot_2024-08-16_21-09-37](https://github.com/user-attachments/assets/39d35a4f-8ffd-4e4f-a41c-3e02071ea4ce)
 
